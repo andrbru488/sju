@@ -6,6 +6,8 @@ group :jekyll_plugins do
     gem 'jekyll-gist'
     gem 'jekyll-seo-tag'
     gem 'jemoji'
+    gem 'faraday-retry'
 end
 
 gem "webrick"
+#gem 'faraday-retry'
